@@ -1,0 +1,3 @@
+C:/Users/Goldi/TUM/Studium/SS19 Master Thesis/point cloud files/Point Cloud Skeleton Extractor/build/CMakeFiles/pointcloud_skeleton_extractor.dir
+C:/Users/Goldi/TUM/Studium/SS19 Master Thesis/point cloud files/Point Cloud Skeleton Extractor/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Goldi/TUM/Studium/SS19 Master Thesis/point cloud files/Point Cloud Skeleton Extractor/build/CMakeFiles/ZERO_CHECK.dir

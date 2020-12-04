@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Goldi\TUM\Studium\SS19 Master Thesis\point cloud files\Point Cloud Skeleton Extractor\pointcloud_skeleton_extractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\fileManager.cpp">
+      <Filter>Source Files\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\voxelBasic.cpp">
+      <Filter>Source Files\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cloudInitialization.cpp">
+      <Filter>Source Files\procedure</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cloudVoxelization.cpp">
+      <Filter>Source Files\procedure</Filter>
+    </ClCompile>
+    <ClCompile Include="..\voxelKeyBasic.cpp">
+      <Filter>Source Files\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\voxelProcessing.cpp">
+      <Filter>Source Files\procedure</Filter>
+    </ClCompile>
+    <ClCompile Include="..\inputBoundaryBox.cpp">
+      <Filter>Source Files\derived viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\inputVoxelKey.cpp">
+      <Filter>Source Files\derived viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\voxelViewer.cpp">
+      <Filter>Source Files\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\voxel3DThinning.cpp">
+      <Filter>Source Files\procedure</Filter>
+    </ClCompile>
+    <ClCompile Include="..\skeletonAnalysis.cpp">
+      <Filter>Source Files\procedure</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Goldi\TUM\Studium\SS19 Master Thesis\point cloud files\Point Cloud Skeleton Extractor\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CC37CB84-05E8-3723-A7F5-BC380FD63C59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\basics">
+      <UniqueIdentifier>{f746416a-c078-4893-87ef-57292a90d68b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\procedure">
+      <UniqueIdentifier>{21b1e157-c602-40a8-bbdf-7661109f2093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\derived viewer">
+      <UniqueIdentifier>{8f49d20d-4dc3-44df-9629-ea345734873e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\fileManager.h">
+      <Filter>Source Files\basics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\voxelBasic.h">
+      <Filter>Source Files\basics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cloudInitialization.h">
+      <Filter>Source Files\procedure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cloudVoxelization.h">
+      <Filter>Source Files\procedure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\voxelKeyBasic.h">
+      <Filter>Source Files\basics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\voxelProcessing.h">
+      <Filter>Source Files\procedure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\inputBoundaryBox.h">
+      <Filter>Source Files\derived viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\inputVoxelKey.h">
+      <Filter>Source Files\derived viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\voxelViewer.h">
+      <Filter>Source Files\basics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\voxel3DThinning.h">
+      <Filter>Source Files\procedure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\skeletonAnalysis.h">
+      <Filter>Source Files\procedure</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
